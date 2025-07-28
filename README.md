@@ -2,7 +2,7 @@
 
 ## 声明
 
-原项目作者：helloflask
+原项目作者：李辉（Grey Li）
 原项目Github地址：https://github.com/helloflask/watchlist
 
 这是一个小型的web项目，使用Flask3.0版本制作，一个demo，仅仅是个人学习，无任何商业行为
